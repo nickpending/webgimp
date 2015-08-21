@@ -29,3 +29,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## Todo
+
+1. Add a method to read a hint from the buffer to send to HTTP parser (otherwise just output the data)
+2. Threading
+3. SSL/TLS support
